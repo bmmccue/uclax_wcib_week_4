@@ -4,8 +4,9 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
-  font-family: poppins, arial, sans-serif; }
+  color: white;
+  font-family: poppins, arial, sans-serif;
+  background-image: url(../images/pinkbg.jpg); }
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -77,8 +78,8 @@ body {
 
 .btn-secondary {
   color: #fff;
-  background-color: #ffcaca;
-  border-color: #ffcaca; }
+  background-color: #e46284;
+  border-color: #e46284; }
 
 .btn-primary {
   color: white;
