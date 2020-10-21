@@ -10,7 +10,7 @@ body {
   background-image: url(../images/pinkbg.jpg);
 }
 
-.text-muted {
+span {
     color: #e46284!important;
 
 
@@ -71,6 +71,9 @@ body {
   letter-spacing: -.05rem;
 }
 
+.text-muted {
+    color: black;
+
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
@@ -93,6 +96,10 @@ body {
     margin-top: 7rem;
   }
 }
+
+.btn-outline-success {
+    color: white;
+    border-color: white;
 
 .btn-secondary:hover {
     color: #fff;
